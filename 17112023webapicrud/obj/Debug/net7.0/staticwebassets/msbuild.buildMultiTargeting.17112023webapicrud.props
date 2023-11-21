@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\17112023webapicrud.props" />
+</Project>
